@@ -1,5 +1,5 @@
 
-__author__ = 'Eder Irineo Tassin - 77097'
+__author__ = 'Eder Tassin'
 
 
 def validation_1(min, mensaje):
