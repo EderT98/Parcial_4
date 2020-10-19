@@ -1,0 +1,7 @@
+Ejercicio:
+Teniendo en cuenta el Diagrama de Clases que resuelve el modelo de negocios 
+propio del módulo “Requerimientos operatoria básica en pesos argentinos” del Proyecto Clip Money, 
+implementar en C# las clases que permiten resolver el problema.  Ej. Cliente. 
+Luego, haciendo uso de la Consola de Visual Studio, crear una instancia de dicha clase, 
+obtener información sobre la misma y finalmente destruirla.
+
