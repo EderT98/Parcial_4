@@ -1,7 +1,7 @@
 from validation import *
 from function import *
 
-__author__ = 'Eder Irineo Tassin - 77097'
+__author__ = 'Eder Tassin'
 
 # Enunciado
 # 1- Cargar los datos de n registros de tipo Artículo en un arreglo de registros (cargue n por teclado).
