@@ -4,7 +4,7 @@ import pickle
 from classIns import *
 from validation import *
 
-__author__ = 'Eder Irineo Tassin - 77097'
+__author__ = 'Eder Tassin'
 
 
 def view_obj(vec):
